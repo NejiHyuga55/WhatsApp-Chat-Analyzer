@@ -1,0 +1,15 @@
+# Core Libraries
+pandas
+matplotlib
+seaborn
+numpy
+
+# NLP & ML
+scikit-learn
+wordcloud
+urlextract
+emoji
+joblib
+
+# Web App
+streamlit
