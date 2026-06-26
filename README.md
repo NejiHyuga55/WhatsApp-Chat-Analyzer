@@ -170,18 +170,6 @@ Examples:
 
 ![Activity Analysis](screenshots/activity.png)
 
-### Word Cloud
-
-![Word Cloud](screenshots/wordcloud.png)
-
-### Sentiment Analysis
-
-![Sentiment](screenshots/sentiment.png)
-
-### Heatmap
-
-![Heatmap](screenshots/heatmap.png)
-
 ---
 
 ## ⚙️ Installation
